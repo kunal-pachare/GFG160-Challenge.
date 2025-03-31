@@ -3,7 +3,7 @@
 My 160-day coding adventure with the GeeksforGeeks GfG160 Challenge! Started March 29, 2025, solving one problem daily in C++ to master DSA.
 
 ## Progress
-- **Day 1 (March 29, 2025)**: Second Largest Element - [Second_Largest.cpp](https://github.com/kunal-pachare/GFG160-Challenge/blob/main/Second_Largest.cpp)
+- **Day 1 (March 29, 2025)**: Second Largest Element - [Dat_1-SecondLargest.cpp](https://github.com/kunal-pachare/GFG160-Challenge/blob/main/Second_Largest.cpp)
 - **Day 2 (March 30, 2025)**: Moves All Zeros To End  - [Day_2-MovesAllZerosToEnd.cpp](https://github.com/kunal-pachare/GFG160-Challenge./blob/main/Day_2-MovesAllZerosToEnd.cpp)
 - **Day 3 (March 31, 2025)**: Reverse An Array - [Day_3-ReverseAnArray](https://github.com/kunal-pachare/GFG160-Challenge./blob/main/Day_3-ReverseAnArray.cpp) 
  
